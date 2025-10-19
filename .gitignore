@@ -1,9 +1,14 @@
-# PDF files (keep only the one in assets/docs)
+# PDF files
+*.pdf
 CV_JuanAndresMunizagaTorres.pdf
 
 # Images outside assets folder
 foto_perfil.jpg
 foto_perfil - Editada.png
+rubrica.png
+
+# Old CSS file (duplicated)
+styles.css
 
 # Claude Code
 .claude/
