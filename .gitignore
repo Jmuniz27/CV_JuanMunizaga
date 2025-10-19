@@ -1,5 +1,12 @@
-# PDF files
-*.pdf
+# PDF files (keep only the one in assets/docs)
+CV_JuanAndresMunizagaTorres.pdf
+
+# Images outside assets folder
+foto_perfil.jpg
+foto_perfil - Editada.png
+
+# Claude Code
+.claude/
 
 # OS files
 .DS_Store

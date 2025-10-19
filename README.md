@@ -50,10 +50,16 @@ Este proyecto presenta información profesional de manera clara, accesible y vis
 
 ```
 Proyecto02/
-├── index.html              # Página principal del CV
-├── styles.css              # Estilos CSS
-├── README.md               # Este archivo
-└── CV_JuanAndresMunizagaTorres.pdf  # CV original en PDF
+├── index.html                      # Página principal del CV
+├── README.md                       # Documentación del proyecto
+├── .gitignore                      # Archivos ignorados por Git
+└── assets/                         # Recursos del proyecto
+    ├── css/
+    │   └── styles.css              # Estilos CSS
+    ├── images/
+    │   └── foto_perfil.png         # Foto de perfil
+    └── docs/
+        └── CV_JuanAndresMunizagaTorres.pdf  # CV original en PDF
 ```
 
 ## Despliegue en GitHub Pages
